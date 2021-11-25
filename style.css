@@ -1,0 +1,13 @@
+
+ /* Styling on Buttons */
+
+.custom-button:hover {
+    background-color: black;
+    color: white;
+   font-weight: 600;
+  }
+#hr-line{
+  border: 1px solid;
+  color: black;
+  font-weight: 900;
+}
